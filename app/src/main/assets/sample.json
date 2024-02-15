@@ -1,0 +1,180 @@
+{
+  "models": [
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_1.jpg",
+      "name": "Alice",
+      "age": 25,
+      "profession": "Software Developer",
+      "description": "Hey there! I'm into various interests. Let's grab some coffee and see where things go!",
+      "distance": "1 mile away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_2.jpg",
+      "name": "Eva",
+      "age": 30,
+      "profession": "Graphic Designer",
+      "description": "Hi! I enjoy exploring new places and trying out different cuisines. Looking for someone with a sense of adventure.",
+      "distance": "2 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_3.jpg",
+      "name": "Grace",
+      "age": 35,
+      "profession": "Teacher",
+      "description": "Hello! I have a love for art and creativity. Let's create some beautiful memories together!",
+      "distance": "3 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_4.jpg",
+      "name": "Ivy",
+      "age": 40,
+      "profession": "Fashion Photographer",
+      "description": "Nice to meet you! I believe in the power of education. I also enjoy outdoor activities and meeting new people.",
+      "distance": "4 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_5.jpg",
+      "name": "Olivia",
+      "age": 45,
+      "profession": "Chef",
+      "description": "Greetings! I have a keen interest in technology. Let's build something amazing!",
+      "distance": "5 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_6.jpg",
+      "name": "Sophia",
+      "age": 28,
+      "profession": "Doctor",
+      "description": "Hi! I am a professional cook. I love experimenting with different recipes and experimenting with different cuisines.",
+      "distance": "6 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_7.jpg",
+      "name": "Emma",
+      "age": 33,
+      "profession": "Engineer",
+      "description": "Hello! I am a nature lover and enjoy hiking and camping. Looking for someone who shares the same passion.",
+      "distance": "7 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_8.jpg",
+      "name": "Chloe",
+      "age": 38,
+      "profession": "Journalist",
+      "description": "Hi! I am a bookworm and love to spend my free time reading. Would love to find someone who enjoys a good book.",
+      "distance": "8 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_9.jpg",
+      "name": "Isabella",
+      "age": 29,
+      "profession": "Architect",
+      "description": "Hey! I am a fitness enthusiast and believe in leading a healthy lifestyle. Looking for a workout partner.",
+      "distance": "9 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_10.jpg",
+      "name": "Ava",
+      "age": 34,
+      "profession": "Lawyer",
+      "description": "Hello! I am a music lover and enjoy playing the guitar. Would love to jam with someone who shares the same interest.",
+      "distance": "10 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_11.jpg",
+      "name": "Lily",
+      "age": 32,
+      "profession": "Musician",
+      "description": "Hi! I am a movie buff and enjoy watching all kinds of movies. Looking for someone to share popcorn with.",
+      "distance": "11 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_12.jpg",
+      "name": "Zoe",
+      "age": 37,
+      "profession": "Artist",
+      "description": "Hey! I am a foodie and love trying out new cuisines. Looking for someone to share a meal with.",
+      "distance": "12 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_13.jpg",
+      "name": "Amelia",
+      "age": 26,
+      "profession": "Writer",
+      "description": "Hello! I am a travel enthusiast and love exploring new places. Looking for a travel buddy.",
+      "distance": "13 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_14.jpg",
+      "name": "Harper",
+      "age": 31,
+      "profession": "Dancer",
+      "description": "Hi! I am a sports enthusiast and enjoy playing tennis. Looking for a tennis partner.",
+      "distance": "14 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_15.jpg",
+      "name": "Ella",
+      "age": 36,
+      "profession": "Actor",
+      "description": "Hey! I am a fashion enthusiast and love keeping up with the latest trends. Looking for someone who shares the same interest.",
+      "distance": "15 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_16.jpg",
+      "name": "Scarlett",
+      "age": 27,
+      "profession": "Photographer",
+      "description": "Hello! I am a pet lover and have a cute dog. Looking for someone who loves pets.",
+      "distance": "16 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_17.jpg",
+      "name": "Madison",
+      "age": 42,
+      "profession": "Designer",
+      "description": "Hi! I am a photographer and love capturing beautiful moments. Looking for someone to share these moments with.",
+      "distance": "17 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_18.jpg",
+      "name": "Sofia",
+      "age": 28,
+      "profession": "Marketer",
+      "description": "Hey! I am a gamer and love playing video games. Looking for someone to join me in the virtual world.",
+      "distance": "18 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_19.jpg",
+      "name": "Abigail",
+      "age": 39,
+      "profession": "Researcher",
+      "description": "Hello! I am a history buff and love learning about different cultures. Looking for someone who shares the same interest.",
+      "distance": "19 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_20.jpg",
+      "name": "Emily",
+      "age": 44,
+      "profession": "Psychologist",
+      "description": "Hi! I am a science enthusiast and love learning about the universe. Looking for someone to explore the cosmos with.",
+      "distance": "20 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_21.jpg",
+      "name": "Elizabeth",
+      "age": 29,
+      "profession": "Fitness Trainer",
+      "description": "Hey! I am a yoga enthusiast and believe in leading a balanced life. Looking for a yoga partner.",
+      "distance": "21 miles away"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/gopalvishwakrma/heartsync/main/model_22.jpg",
+      "name": "Mila",
+      "age": 41,
+      "profession": "Chef",
+      "description": "Hello! I am a coffee lover and enjoy visiting different coffee shops. Looking for someone to share a cup of coffee with.",
+      "distance": "22 miles away"
+    }
+  ]
+}
